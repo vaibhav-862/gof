@@ -1,8 +1,7 @@
 package guru.springframework.gof.creational.factory;
 
+import guru.springframework.gof.creational.factory.BasePizzaFactory;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class PizzaFactoryTest {
 
